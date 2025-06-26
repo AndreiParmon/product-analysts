@@ -1,0 +1,4 @@
+/product_analytics/static/
+*.log
+*.pyc
+*.env
